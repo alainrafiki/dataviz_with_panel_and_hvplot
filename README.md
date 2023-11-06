@@ -1,5 +1,5 @@
-# dataviz_with_panel_and_hvplot
- Python Data Visualization Project with Panel and Hvplot
+# Practice Data Visualization with Panel and hvplot
+ Python Data Visualization Project with Panel and Hvplot using data from Our World in Data.
 
 ## Some notes for running the project
  Use the following command 'source co2_dashboard_practice/bin/activate' to activate the virtual environment in the terminal.
